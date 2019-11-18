@@ -4,6 +4,8 @@ This is my collection of quantum computing papers, sorted by time and organised 
 
 # Early relevant
 
+* 1927 Heisenberg: The Actual Content of Quantum Theoretical Kinematics and Mechanics <https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19840008978.pdf>
+
 * 1959 Feynman: Plenty of room at the bottom
 <http://www.phy.pku.edu.cn/~qhcao/resources/class/QM/Feynman%27s-Talk.pdf>. "Miniaturizing the computer", amoungst other sections.
 
@@ -26,6 +28,8 @@ This is my collection of quantum computing papers, sorted by time and organised 
 <https://arxiv.org/abs/quant-ph/9605043>
 
 # The 1990's: building bits of computers
+* 1995 DiVincenzo: Quantum Computation <http://www.lanais.famaf.unc.edu.ar/cursos/quantumcomp/lectures/DiVincenzo-QC-science.pdf> The "DiVincenzo criteria".
+
 * 1995 Cirac/Zoller: Quantum Computations with Cold Trapped Ions <http://iontrap.umd.edu/wp-content/uploads/2013/10/Quantum-computations-with-cold-trapped-ions.pdf>.  A concrete proposal of how to build trapped ion computer.
 
 * 1995 Monroe et al: Demonstration of a Fundamental Quantum Logic Gate
@@ -79,9 +83,17 @@ This is my collection of quantum computing papers, sorted by time and organised 
 
 # 2000-2015: Superconducting qubits
 
+* 2008 Superconducting Qubits: A Short Review <https://arxiv.org/pdf/cond-mat/0411174.pdf>
+
 * 2013 Observing single quantum trajectories of a superconducting qubit <https://arxiv.org/abs/1305.7270>.  Measure the environment that's futzing with your qubits, and mitigate your decoherence!
 
+* 2017 Building logical qubits in a superconducting quantum computing system <https://www.nature.com/articles/s41534-016-0004-0> Nature article
+
 * 2019 Superconducting Qubits: Current State of Play <https://arxiv.org/pdf/1905.13641.pdf> Ahh, the puns!
+
+# 2000-2015: Algorithms
+
+* 2005 Shor: Progress (or lack of it) in Quantum Algorithms <http://www-math.mit.edu/~shor/papers/Progress.pdf>
 
 # Recent: Quantum 'supremacy', and various reports.
 * 2016  Aaronson: Complexity-Theoretic Foundations of Quantum Supremacy
