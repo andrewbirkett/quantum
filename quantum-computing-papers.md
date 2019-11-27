@@ -72,11 +72,14 @@ This is my collection of quantum computing papers, sorted by time and organised 
 * 2003 Realization of the Cirac–Zoller controlled-NOT quantum gate
 <https://www.nature.com/articles/nature01494>  Controlled NOTs between individual ions.
 
+* 2005 Precision of single-qubit gates based on Raman transitions <https://arxiv.org/pdf/quant-ph/0510014.pdf>
+
 * 2007 Coherent quantum state storage and transfer between two phase qubits via a resonant cavity <https://arxiv.org/abs/0709.2341>.  Quantum bus.
 
 * 2010 Monroe et al: Entanglement of Atomic Qubits Using an Optical Frequency Comb
 <http://olmschenk.info/papers/prl_104_140501_2010_freq_comb_Hayes.pdf> The IonQ approach to trapped ion qubit control using optical frequency comb lasers.  Also see Blinov article here: <https://physics.aps.org/articles/v3/30>.
 
+* 2013 Monroe/Kim: Scaling the Ion Trap Quantum Processor <http://iontrap.umd.edu/wp-content/uploads/2012/12/1164.full_.pdf>
 * 2017 Reconfigurable and Programmable Ion Trap Quantum Computer <https://ieeexplore.ieee.org/document/8123665> IonQ status report
 
 * 2018 IonQ founder lecture <https://www.youtube.com/watch?v=9aOLwjUZLm0>
@@ -88,6 +91,8 @@ This is my collection of quantum computing papers, sorted by time and organised 
 * 2013 Observing single quantum trajectories of a superconducting qubit <https://arxiv.org/abs/1305.7270>.  Measure the environment that's futzing with your qubits, and mitigate your decoherence!
 
 * 2017 Building logical qubits in a superconducting quantum computing system <https://www.nature.com/articles/s41534-016-0004-0> Nature article
+
+* 2017 Experimental comparison of two quantumcomputing architectures: Shoot out between trapped ion and superconducting qubits!  <https://www.pnas.org/content/pnas/114/13/3305.full.pdf>
 
 * 2019 Superconducting Qubits: Current State of Play <https://arxiv.org/pdf/1905.13641.pdf> Ahh, the puns!
 
@@ -102,6 +107,9 @@ Experiments <https://arxiv.org/pdf/1612.05903.pdf> "Feynman" and "Schrodinger" s
 * 2018 Finance report on state of quantum computing
 <http://image-src.bcg.com/Images/BCG-The-Next-Decade-in-Quantum-Computing-Nov-2018-21-R_tcm9-207859.pdf>
 
+* 2018 Quantum Computing in the NISQ era and beyond <https://arxiv.org/pdf/1801.00862.pdf>
+
 * Details of IBM's various public backends, eg. <https://github.com/Qiskit/ibmq-device-information/tree/master/backends/melbourne/V1>
+# Longer courses:
 
-
+* Loceff: <https://arxiv.org/abs/1305.7270>
