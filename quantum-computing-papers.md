@@ -37,6 +37,8 @@ This is my collection of quantum computing papers, sorted by time and organised 
 
 * 1997 Various: The Los Alamos Trapped Ion Quantum Computer Experiment <https://arxiv.org/pdf/quant-ph/9708050.pdf>.  A good summary paper on the early steps in trapped ion computing, with a good section on coupling.
 
+* 1998 Monroe et al Experimental Issues In Coherent Quantum-State Manipulation of Trapped Atomic Ions <https://tf.nist.gov/general/pdf/1275.pdf>
+
 # The 1990's: organising the theory, universal gates and complexity classes
 * 1994 Realizable Universal Quantum Logic Gates <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.74.4087>.  Aka, CNOT plus single qubit rotations is universal.
 
@@ -67,7 +69,7 @@ This is my collection of quantum computing papers, sorted by time and organised 
 * 2017 Temperature scaling law for quantum annealing optimizers <https://arxiv.org/abs/1703.03871> Maybe all finite-temperature annealers don't work?
 
 
-# 2000-2015: Trapped Ions
+# 2000 onwards: Trapped Ions
 
 * 2003 Realization of the Cirac–Zoller controlled-NOT quantum gate
 <https://www.nature.com/articles/nature01494>  Controlled NOTs between individual ions.
@@ -76,11 +78,16 @@ This is my collection of quantum computing papers, sorted by time and organised 
 
 * 2007 Coherent quantum state storage and transfer between two phase qubits via a resonant cavity <https://arxiv.org/abs/0709.2341>.  Quantum bus.
 
+* 2008 Ion-trap quantum information processing: experimental status<https://arxiv.org/abs/0805.2450>
+
 * 2010 Monroe et al: Entanglement of Atomic Qubits Using an Optical Frequency Comb
 <http://olmschenk.info/papers/prl_104_140501_2010_freq_comb_Hayes.pdf> The IonQ approach to trapped ion qubit control using optical frequency comb lasers.  Also see Blinov article here: <https://physics.aps.org/articles/v3/30>.
 
 * 2013 Monroe/Kim: Scaling the Ion Trap Quantum Processor <http://iontrap.umd.edu/wp-content/uploads/2012/12/1164.full_.pdf>
+
 * 2017 Reconfigurable and Programmable Ion Trap Quantum Computer <https://ieeexplore.ieee.org/document/8123665> IonQ status report
+
+* 2017 Fast quantum logic gates with trapped-ion qubits <https://arxiv.org/abs/1709.06952>
 
 * 2018 IonQ founder lecture <https://www.youtube.com/watch?v=9aOLwjUZLm0>
 
@@ -94,11 +101,12 @@ This is my collection of quantum computing papers, sorted by time and organised 
 
 * 2017 Experimental comparison of two quantumcomputing architectures: Shoot out between trapped ion and superconducting qubits!  <https://www.pnas.org/content/pnas/114/13/3305.full.pdf>
 
-* 2019 Superconducting Qubits: Current State of Play <https://arxiv.org/pdf/1905.13641.pdf> Ahh, the puns!
 
 # 2000-2015: Algorithms
 
 * 2005 Shor: Progress (or lack of it) in Quantum Algorithms <http://www-math.mit.edu/~shor/papers/Progress.pdf>
+
+* 2011: A useful thesis on simulating Shor's algorithm <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.868.3597&rep=rep1&type=pdf>
 
 # Recent: Quantum 'supremacy', and various reports.
 * 2016  Aaronson: Complexity-Theoretic Foundations of Quantum Supremacy
@@ -107,7 +115,10 @@ Experiments <https://arxiv.org/pdf/1612.05903.pdf> "Feynman" and "Schrodinger" s
 * 2018 Finance report on state of quantum computing
 <http://image-src.bcg.com/Images/BCG-The-Next-Decade-in-Quantum-Computing-Nov-2018-21-R_tcm9-207859.pdf>
 
+
 * 2018 Quantum Computing in the NISQ era and beyond <https://arxiv.org/pdf/1801.00862.pdf>
+
+* 2019 Superconducting Qubits: Current State of Play <https://arxiv.org/pdf/1905.13641.pdf> Ahh, the puns!
 
 * Details of IBM's various public backends, eg. <https://github.com/Qiskit/ibmq-device-information/tree/master/backends/melbourne/V1>
 # Longer courses:
